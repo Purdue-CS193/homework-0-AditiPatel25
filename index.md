@@ -13,15 +13,12 @@ Syntax highlighted code block
 
 # Aditi's First CS193 Homework
 
-_MyFavoriteThingsAboutCS193_
+My Favorite Things About CS193
 
 - The instructors seem nice and helpful
 - I'm going to learn how to use various programming tools
 - I will learn how to use GitHub for personal projects
 - CS193 will be a stress-free class where I will be able to learn skills and resources for my major
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
