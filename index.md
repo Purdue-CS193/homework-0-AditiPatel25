@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Aditi's First CS193 Homework
 
-_My Facvorite Things About CS193_
+_My_ _Favorite_ _Things_ _About_ CS193_
 
 - The instructors seem nice and helpful
 - I'm going to learn how to use various programming tools
